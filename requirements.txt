@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+supabase
+psycopg2-binary
+pandas
